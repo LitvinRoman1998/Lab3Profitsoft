@@ -1,0 +1,2 @@
+1;2010-03-30;2010-03-31;2020-03-31;ENTITY;abc;Pushkin, 6;Dorothy;Green;Alexandrovna;1979-06-01;22000;456789012;Milo;Gaines;James;1968-03-27;20000;345678901
+2;2018-06-21;2018-06-22;2028-06-22;INDIVIDUAL;Litvin;Roman;Mikhailovich;Nauki 14;Litvin;Roman;Mikhailovich;1998-06-10;100000;123456789
